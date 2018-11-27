@@ -18,15 +18,12 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="head.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="SnackSort.cpp">
+    <ClCompile Include="ThreeDimensionalArray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
