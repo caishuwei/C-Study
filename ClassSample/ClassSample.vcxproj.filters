@@ -18,10 +18,7 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="head.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="SnackSort.h">
+    <ClInclude Include="Birthday.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -29,7 +26,13 @@
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="SnackSort.cpp">
+    <ClCompile Include="ClassSample.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Date.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Birthday.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
